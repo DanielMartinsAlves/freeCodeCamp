@@ -10,7 +10,7 @@
     </tr>
 </table>
 
-# Configurando freeCodeCamp localmente
+# Configurando o freeCodeCamp localmente
 
 Siga estas instruções para configurar freeCodeCamp localmente em seu sistema. Isso é altamente recomendado se você quer contribuir regularmente.
 
@@ -24,7 +24,7 @@ Isso é essencial, pois assim você pode trabalhar com sua cópia do freeCodeCam
 
 > **Dica:**
 > O repositório principal em `https://github.com/freeCodeCamp/freeCodeCamp` é comumente chamado de repositório `upstream`.
-> Seu fork em `https://github.com/SEU_USUARIO/freeCodeCamp` é comumente chamado de repositório `origin`.
+> Seu fork está localizado em `https://github.com/SEU_USUARIO/freeCodeCamp` é comumente chamado de repositório `origin`.
 
 **Siga estes passos para dar _fork_ no repositório `https://github.com/freeCodeCamp/freeCodeCamp`:**
 
@@ -132,7 +132,7 @@ Comece instalando esses _softwares_.
 **Importante:**
 
 Recomendamos fortemente atualizar para as versões estáveis mais recentes, ou seja, as versões _LTS_ mencionadas acima. (_LTS_ significa _Long Term Service_ ou _Suporte à longo prazo_)
-Se o Node.js or MongoDB já estiverem instaladas em sua máquina, rode os seguintes comando para verificar as versões:
+Se o Node.js or MongoDB já estiverem instaladas em sua máquina, rode os seguintes comandos para verificar as versões:
 
 ```shell
 node -v
@@ -152,14 +152,14 @@ Não podemos prover suporte no GitHub, pois problemas de instalação de _softwa
 
 ### Instalando dependências
 
-Comece instalando as dependência necessárias para que a aplicação rode.
+Comece instalando as dependências necessárias para que a aplicação rode.
 
 ```shell
 # Instala dependências NPM
 npm install
 ```
 
-Depois você precisará adicionar as variáveis de ambiente privadas (_API Keys_)
+Depois, você precisará adicionar as variáveis de ambiente privadas (_API Keys_)
 
 ```shell
 # Crie uma cópia de "sample.env" e chame-a de ".env".
@@ -461,7 +461,7 @@ Deve haver um erro no console do seu _browser_ ou no Bash / Terminal / Linha de 
 
 ### _Troubleshooting_: solucionando problemas
 
-Se sua aplicação roda, mas você está encontrando problemas com a interface em si, por exemplo, se as fontes não estão carregando ou se o editor de código não está aparecendo apropriadamente, você pode tentar os seguintes passos ao menos uma vez:
+Se sua aplicação roda, mas você está encontrando problemas com a interface em si, por exemplo, se as fontes não estão carregando ou se o editor de código não está aparecendo apropriadamente, você pode tentar os seguintes passos, ao menos uma vez:
 
 ```shell
 # Remove todos os node modules instalados
