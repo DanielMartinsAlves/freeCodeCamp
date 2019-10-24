@@ -16,11 +16,11 @@
 
 ## Introdução
 
-Alguns do fluxos de email, como atualizar o email de um usuário, necessita de uma api e/ou um servidor back-end para enviar os emails. No ambiente de desenvolvimento, você pode usar uma ferramenta para obter esses emails localmente, em vez de ter que usar um provedor de email e efetivamente enviar o email. MailHog é uma dessas ferramentas para desenvolvedores fazerem testes com emails, ela vai oter os emails que sua instância local do freeCodeCamp mandar.
+Alguns do fluxos de email, como atualizar o email de um usuário, necessita de uma api e/ou um servidor back-end para enviar os emails. No ambiente de desenvolvimento, você pode usar uma ferramenta para obter esses emails localmente, em vez de ter que usar um provedor de email e efetivamente enviar o email. A MailHog é uma dessas ferramentas para desenvolvedores realizarem testes com emails, ela vai obter os emails que sua instância local do freeCodeCamp mandar.
 
 ## Instando MailHog
 
-Como instalar e rodar MailHog depende do seu sistema operacional:
+Como instalar e rodar MailHog. Isso depende do seu sistema operacional:
 
 - [Instalando MailHog no macOS](#instalando-mailhog-no-macos)
 - [Instalando MailHog no Windows](#instalando-mailhog-no-windows)
