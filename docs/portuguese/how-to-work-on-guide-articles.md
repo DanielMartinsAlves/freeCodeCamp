@@ -1,6 +1,6 @@
 # Como trabalhar em Artigos Guia
 
-Com a tua ajuda, nós podemos criar uma ferramenta de referência compreensiva que ajudará milhões de pessoas que estão a aprender código nos anos que aí vêm. 💛
+Com a tua ajuda, nós podemos criar uma ferramenta de referência compreensiva que ajudará milhões de pessoas que estão aprendendo código nos anos que aí vêm. 💛
 
 Tu podes:
 
@@ -9,7 +9,7 @@ Tu podes:
 
 ## Passos para Criar e Editar Artigos Guia
 
-1. 🍴 [Fazer <i>fork</i> a este repositório](https://github.com/freeCodeCamp/freeCodeCamp#fork-destination-box)
+1. 🍴 [Fazer <i>fork</i> neste repositório](https://github.com/freeCodeCamp/freeCodeCamp#fork-destination-box)
 2. 👀️ Seguir as guias de contribuição delineados mais abaixo.
 3. 🔧 Fazer algumas mudanças impressionantes!
 4. 📖 Ler este [guia de estilo de melhores práticas](/docs/style-guide-for-guide-articles).
@@ -18,18 +18,18 @@ Tu podes:
 
 Ou então apenas [criar um <i>issue</i>](https://github.com/freeCodeCamp/freeCodeCamp/issues) - qualquer pedacinho de ajuda conta! 😊
 
-### [Segue estas guias recomendadas do nosso Guia de Estilo para um Artigo Guia interessante e completo](/docs/style-guide-for-guide-articles.md)
+### [Siga estas guias recomendadas do nosso Guia de Estilo para um Artigo Guia interessante e completo](/docs/style-guide-for-guide-articles.md)
 
 ### Criar um <i>Pull request</i> (PR) para propor mudanças
 
-Há duas maneiras para propor uma mudança num repositório, depois de editares ou adicionar um Artigo Guia:
+Há duas maneiras para propor uma mudança num repositório, depois de editar ou adicionar um Artigo Guia:
 
 - [Usando o GitHub Web Interface no teu <i>browser</i>](#using-the-github-web-interface-on-your-browser).
 - [Trabalhando na tua máquina pessoal](#working-on-your-local-machine) (_recomendado_ para pré-visualizar mudanças).
 
 #### Usando o GitHub Web Interface no teu browser
 
-Vê a demonstração em vídeo ou segue os passos abaixo:
+Vejaê a demonstração em vídeo ou siga os passos abaixo:
 
 **[A FAZER]** Atualizar a gravação do GIF.
 
@@ -37,13 +37,13 @@ Vê a demonstração em vídeo ou segue os passos abaixo:
 
 1. Ir à pasta **"pages"** (localizada no [`guide`](/guide)) e encontrar o artigo que gostarias de escrever ou editar.
 
-    > Todos os <i>stubs</i> estarão num ficheiro index.md
+    > Todos os <i>stubs</i> estarão num arquivo index.md
 
-2. Carrega o icon de lápis do <kbd>Edit this file</kbd> e faz as tuas mudanças ao ficheiro usando o GitHub-flavored Markdown.
+2. Carrega o icone de lápis do <kbd>Edit this file</kbd> e faz as tuas mudanças ao ficheiro usando o GitHub-flavored Markdown.
 
-    > Se o icon estiver acizentado e a dar o aviso "You must be on a branch to make or propose changes to this file", então está provavelmente na <i>tree</i> de outra pessoa. No topo esquerdo da página estará uma caixa <i>drop down</i> que dirá "Tree: #######". Carrega no <i>drop down</i> e muda o <i>branch</i> para "master". Agora o lápis deve estar clicável.
+    > Se o icon estiver acizentado e a avisar "You must be on a branch to make or propose changes to this file", então está provavelmente na <i>tree</i> de outra pessoa. No topo esquerdo da página estará uma caixa <i>drop down</i> que dirá "Tree: #######". Carrega no <i>drop down</i> e muda o <i>branch</i> para "master". Agora o lápis deve estar clicável.
 
-3. Faz <i>scroll</i> até ao fim do ecrã e adiciona uma mensagem de <i>commit</i> a explicar as tuas mudanças.
+3. Faz <i>scroll</i> até ao fim da tela e adiciona uma mensagem de <i>commit</i> a explicar as tuas mudanças.
 
     (Opcional): Nós recomendamos vivamente fazer uma mensagem de <i>commit</i> convencional. Isto é uma boa prática que verás em alguns dos repositórios <i>Open Source</i> mais populares. Como developer, isto encoraja-te a seguir práticas <i>standard</i>.
 
@@ -238,9 +238,9 @@ Assim que resolveres estes problemas, poderei rever o teu PR e juntar ao reposit
 
 ---
 
-> Estás à vontade de referenciar o [Guia de Estilo para escrever artigos](https://github.com/freeCodeCamp/freeCodeCamp#article-title) para este repositório no que toca a formatar um artigo corretamente para que o teu Travis CI build seja aprovado. ✅
+> Fique à vontade para referenciar o [Guia de Estilo para escrever artigos](https://github.com/freeCodeCamp/freeCodeCamp#article-title) para este repositório no que toca a formatar um artigo corretamente para que o teu Travis CI build seja aprovado. ✅
 >
-> Também é uma boa prática no GitHub escrever uma breve descrição das tuas mudanças quando crias um PR. 📝
+> Também é uma boa prática no GitHub escrever uma breve descrição das tuas mudanças quando cria um PR. 📝
 ```
 
 #### Syncing Fork
